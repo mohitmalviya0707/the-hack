@@ -1,1 +1,1 @@
-# the-hack the REgistretion website for the hacthone live 
+# the-hack the Registretion website for the hacthone live 
